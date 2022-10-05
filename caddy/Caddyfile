@@ -1,10 +1,10 @@
-www.yourdomain.com:80 {
+hfrmhrmhsr.onrender.com:80 {
     root /usr/src/trojan
     log /usr/src/caddy.log
     index index.html
 }
 
-www.yourdomain.com:443 {
+hfrmhrmhsr.onrender.com:443 {
     root /usr/src/trojan
     log /usr/src/caddy.log
     index index.html
